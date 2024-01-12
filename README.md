@@ -23,6 +23,15 @@ __五、論文文檔截圖__
 
 __六、頁面截圖__
 
+![image](https://github.com/gigi463682/se_20240111/blob/642e923addb8fa24e7715e060e65ed44a7d6988a/se0111_png/708c25e418e540e39f18158980b0d807.png)
+![image]()
+![image]()
+![image]()
+![image]()
+![image]()
+![image]()
+![image]()
+![image]()
 ![image]()
 ![image]()
 
