@@ -29,7 +29,7 @@ __六、頁面截圖__
 ![image](https://github.com/gigi463682/se_20240111/blob/76e0b3588277f52162adac221ae4be5b4e732828/se0111_png/949d94a1b4e24031aa58e9c1a5b0eeb8.png)
 ![image](https://github.com/gigi463682/se_20240111/blob/9b6053e74c3edb536d13e65a134adfbf04a57a34/se0111_png/801de0780c234ee0b3999c531e3ea08a.png)
 ![image](https://github.com/gigi463682/se_20240111/blob/12886e216cad37b175a9b6f7a35b21418c461197/se0111_png/3b9ae2f320b34c2f8978bf2752e118d1.png)
-![image]()
+![image](https://github.com/gigi463682/se_20240111/blob/838c4b792bfa67af8080724f199ce87843b561d0/se0111_png/b89f16ceccef4406b77367af5779ec29.png)
 ![image]()
 ![image]()
 ![image]()
