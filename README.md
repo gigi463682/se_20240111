@@ -19,7 +19,7 @@ __四、系統結構圖__
 __五、論文文檔截圖__
 
 ![image](https://github.com/gigi463682/se_20240111/blob/f1ea8eb5f98a71a2c9bc35f59ae67d7197c79e04/se0111_png/cc6ac2e1d88c4800b62eada2bce94ad0.png)
-![image]()
+![image](https://github.com/gigi463682/se_20240111/blob/0f0799ad758669e41abbba0efb996ec020f7cce7/se0111_png/eab6e78749654274b11c3ed4ac9f707e.png)
 
 __六、頁面截圖__
 
