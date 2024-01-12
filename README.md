@@ -37,5 +37,4 @@ __六、頁面截圖__
 
 __七、數據庫__
 
-![image]()
-![image]()
+![image](https://github.com/gigi463682/se_20240111/blob/6dd96579428fd9411c37d89c6976a7f0ae388228/se0111_png/f6debe7d7bc94061b0f9cb8bfd83efe8.png)
