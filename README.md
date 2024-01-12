@@ -14,14 +14,19 @@ __三、系統功能__
 
 __四、系統結構圖__
 
+![image](https://github.com/gigi463682/se_20240111/blob/8cb13c4d31401a7b3c9a6c9c3063cda52660127c/se0111_png/21e2e499254e46fa96c00f5d1144693a.png)
 
 __五、論文文檔截圖__
 
 ![image](https://github.com/gigi463682/se_20240111/blob/f1ea8eb5f98a71a2c9bc35f59ae67d7197c79e04/se0111_png/cc6ac2e1d88c4800b62eada2bce94ad0.png)
+![image]()
 
 __六、頁面截圖__
 
-
+![image]()
+![image]()
 
 __七、數據庫__
 
+![image]()
+![image]()
