@@ -32,7 +32,7 @@ __六、頁面截圖__
 ![image](https://github.com/gigi463682/se_20240111/blob/838c4b792bfa67af8080724f199ce87843b561d0/se0111_png/b89f16ceccef4406b77367af5779ec29.png)
 ![image](https://github.com/gigi463682/se_20240111/blob/297eb2b36ec8ceb58f3bc26d6a7b59d37dae2ee8/se0111_png/0a8277fb1e954742b7d9fef7351af758.png)
 ![image](https://github.com/gigi463682/se_20240111/blob/003d862dd104dfe1b371ec64f6e8748525eba334/se0111_png/5b81b400dec54d1aa1cff2d6db8fab22.png)
-![image]()
+![image](https://github.com/gigi463682/se_20240111/blob/e00a87b78e16c08dc390ba5ee64b7cb51fbe49f6/se0111_png/0f5b7d4b686f423c9de0f513b3a809a3.png)
 ![image]()
 
 __七、數據庫__
